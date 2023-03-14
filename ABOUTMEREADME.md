@@ -1,8 +1,8 @@
 -  Hi, I’m Doğukan Beydili
 -  I from Turkey ❤💗
--  I’m interested in trojan and trojan and so so so trojan :))
--  I’m currently learning c#
--  I’m looking to collaborate on cyber security.(Trojan, crypto, linux etc)
+-  I’m interested C#, java and ı am developed project.
+-  coming soon reach the projects from the profile.
+-  I’m looking to collaborate on cyber security.
 -  Reach me instagram: d.beydili 
 
 <!---
