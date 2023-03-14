@@ -3,7 +3,7 @@
 -  I’m interested C#, java and ı am developed project.
 -  coming soon reach the projects from the profile.
 -  I’m looking to collaborate on cyber security.
--  Reach me instagram: d.beydili 
+-  Reach me on instagram: d.beydili 
 
 <!---
 bydlii/bydlii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
