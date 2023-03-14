@@ -1,7 +1,7 @@
 -  Hi, I’m Doğukan Beydili
 -  I from Turkey ❤💗
 -  I’m interested C#, java and ı am developed project.
--  coming soon reach the projects from the profile.
+-  you can reach the projects on my profile soon.
 -  I’m looking to collaborate on cyber security.
 -  Reach me on instagram: d.beydili 
 
