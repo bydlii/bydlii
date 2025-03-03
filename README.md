@@ -2,11 +2,11 @@
 <h3 align="center">A passionate full stack developer from Turkey</h3>
 
 
-- 🔭 I’m currently working on **Fisherman**
+- 🔭 I’m currently working on **new project**
 
 - 🌱 I’m currently learning **react.js**
 
-- 💬 Ask me about **c#, .NET, entityframework**
+- 💬 Ask me about **c#, .NET, entityframework and react.js**
 
 - 📫 How to reach me **beydilidogukan@icloud.com**
 
